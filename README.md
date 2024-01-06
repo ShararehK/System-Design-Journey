@@ -85,4 +85,14 @@ Welcome to my System Design Journey repository! 🌟 This repository documents m
 
 Feel free to follow along with my journey by exploring the content in each section. I'll be sharing my experiences, challenges, and new insights as I progress. Your feedback and insights are always appreciated!
 
-Happy coding!
+## 🤝 Contributing
+
+If you'd like to contribute, please feel free to submit a pull request. Your contributions are highly appreciated.
+
+## 📫 Contact
+
+You can reach me, Sharareh Keshavarzi, via:
+
+- Website: https://shararehkeshavarzi.com/
+- Email: keshavarzisharareh@gmail.com
+- LinkedIn:https://www.linkedin.com/in/shararehkeshavarzi/
